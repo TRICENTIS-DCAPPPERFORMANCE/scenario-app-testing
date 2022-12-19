@@ -1,4 +1,4 @@
 Feature:login 
 
   Scenario: validate login functionality
-    Given ckjbv dnfv
+    Given user is on home page
